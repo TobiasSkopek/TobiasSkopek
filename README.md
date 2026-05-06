@@ -34,10 +34,10 @@ Mastering C# fundamentals while building my first text-based RPG and various con
 
 ---
 
-📈 My Stats
+## 📈 My Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TVOJE-JMENO&show_icons=true&theme=radical)
 
 ---
 
-### ## 💡 My Way of Learning
+### 💡 My Way of Learning
 > "The only way to learn a new programming language is by writing programs in it." — *Dennis Ritchie*
