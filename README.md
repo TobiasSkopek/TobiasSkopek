@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm @TobiasSkopek! 👋
 
 ### 🎓 Who am I?
 I am a **First-Year Student** at **SPŠE Ječná** in Prague. I've just started my journey into the world of software development, and I'm currently focused on mastering the basics of **C#** and **.NET**.
