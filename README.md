@@ -18,8 +18,6 @@ Mastering C# fundamentals while building my first text-based RPG and various con
 - Understanding how to better structure my programs.
 - Tips on how to move from console apps to more complex projects in the future.
 
-### "Talk is cheap. Show me the code." — Linus Torvalds
-
 ---
 
 ### 💻 Tech & Tools
@@ -31,11 +29,6 @@ Mastering C# fundamentals while building my first text-based RPG and various con
 ![Microsoft Entra](https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
-
----
-
-## 📈 My Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TVOJE-JMENO&show_icons=true&theme=radical)
 
 ---
 
